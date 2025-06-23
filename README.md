@@ -1,2 +1,2 @@
 # FYDS
-My first hands-on github
+My first hands-on GitHub 
